@@ -5,7 +5,7 @@ title: Lesley Bell
 description: "I'm a user experience designer living in the San Francisco Bay Area."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://lesleybell.com"
 
 # Build settings
 markdown: kramdown
