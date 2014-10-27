@@ -28,12 +28,12 @@ colors:  #in hex code if not noted else
 social:
   - title: dribbble
     url: http://www.dribbble.com/LB2045
- # - title: facebook
-  #  url:
+  - title: facebook
+    url:
   - title: twitter
     url: https://www.twitter.com/LB2045
-  #- title: instagram
-   # url: 
+  - title: instagram
+    url: 
   - title: tumblr
     url: 
     
