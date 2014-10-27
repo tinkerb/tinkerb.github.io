@@ -28,12 +28,12 @@ colors:  #in hex code if not noted else
 social:
   - title: dribbble
     url: http://www.dribbble.com/LB2045
-  - title: facebook
-    url:
+ # - title: facebook
+  #  url:
   - title: twitter
     url: https://www.twitter.com/LB2045
-  - title: instagram
-    url: 
+  #- title: instagram
+   # url: 
   - title: tumblr
     url: 
     
@@ -50,16 +50,16 @@ email: lesley@lesleybell.com
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+#members:
+#  - name: Mark Webber
+#    position: CEO
+#    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#    img: team01.jpg
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+#      - title: twitter
+#        url: http://twitter.com/handle
   - name: Paul Jameson
     position: Lead Designer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
