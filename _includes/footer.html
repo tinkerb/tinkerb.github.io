@@ -1,11 +1,18 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4">
+        <div class="col-lg-3">
+            <h4>Latest Posts</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['blog'] limit:5 %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            {% endfor %} 
+        </div>
+          <!--  <div class="col-lg-4">
                 <h4>About</h4>
                 <div class="hline-w"></div>
                 <p>{{ site.about }}</p>
-            </div>
+            </div> -->
             <div class="col-lg-4">
                 <h4>Social Links</h4>
                 <div class="hline-w"></div>
@@ -15,13 +22,7 @@
                     {% endfor %}
                 </p>
             </div>
-        <div class="col-lg-3">
-            <h4>Latest Posts</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-            {% endfor %} 
-        </div>
+            
             <!-- <div class="col-lg-4">
                 <h4>Our Bunker</h4>
                 <div class="hline-w"></div>
