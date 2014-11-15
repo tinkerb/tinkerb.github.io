@@ -1,21 +1,25 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "HUD How To"
+date:   2014-05-25 06:00:46
+author: Lesley Bell
 categories:
 - project
-img: portfolio_06.jpg
-thumb: thumb02.jpg
+img: google glass outline.png
+thumb: google glass outline.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- HUDHowtoforglass 1.jpg
+- HUDHow To for Glass Ant Logo.jpg
+- google glass outline.png
 client: Wonder Corp.
 website: http://blacktie.co
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####HUD HOWTO
+My role:  UX Design, Visual Design, Branding
+At the Augmented World Expo Hackathon from May 26-27, my team and I designed and began developing HUD HowTo, an augmented reality application to help users receive instructions through their smartglasses.
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+I conceptualized and designed the ant logo to convey the idea of diligent work broken up into small parts.
+
+Tutorial videos are divided into five-second segments, then paused to allow the user to either move forward or rewatch a video segment.  (Five seconds was what seemed best to our team when mimicking interactions, but for a more polished product I would prefer to do more user research to determine the best timing.)
+
+If a user repeats a segment multiple times, the user is then given the option to call for help.  In the case of a product’s instruction manual, this would be customer support.  The customer service representative would have access to video from the user’s smartglasses in order to better help them.
