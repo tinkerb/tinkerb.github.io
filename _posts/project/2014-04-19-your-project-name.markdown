@@ -11,8 +11,7 @@ carousel:
 - HUDHowtoforglass 1.jpg
 - HUDHow To for Glass Ant Logo.jpg
 - googleglasstockphoto.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+
 ---
 ####HUD HOWTO
 My role:  UX Design, Visual Design, Branding
