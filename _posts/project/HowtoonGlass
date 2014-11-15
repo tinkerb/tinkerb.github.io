@@ -1,16 +1,15 @@
 ---
 layout: project
-title:  "Teach me how to..."
+title:  "Ok Glass, teach me how to..."
 date:   2014-02-25 16:54:46
 author: Lesley Bell
 categories:
 - project
-img: whfinaltaskflow.jpg
-thumb: whfinaltaskflow.jpg
+img: gettiethings.jpg
+thumb: gettiethings.jpg
 carousel:
 - whfinaltaskflow.jpg
-- single02.jpg
-- single03.jpg
+- gettiethings.jpg
 client: Confidential
 
 ---
