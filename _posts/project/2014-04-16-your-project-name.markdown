@@ -1,21 +1,22 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "CYRENE"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Lesley Bell
 categories:
 - project
-img: portfolio_09.jpg
-thumb: thumb02.jpg
+img: Cyrene_Blog.jpg
+thumb: Cyrene Blog.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
----
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+- Cyrene_Blog.jpg
+- Cyrene_Shop.jpg
+- cyrene_sketch_portfolio.jpg
+client: Cyrene
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+---
+####CYRENE
+Cyrene is a Christian not-for-profit consignment platform founded by an interior designer who wanted an exceptionally beautiful site.
+
+Her organization enabled users to donate fine art, antiques, and jewelry to benefit a charity of their choice.  They also had the option to sell an item and donate only a percentage of the proceeds.  These items were available for purchase on the site, but she strongly believed that shopping should not be the focus of the site.
+
+Simplicity was key.  We decided on an elegant one-page layout.  
