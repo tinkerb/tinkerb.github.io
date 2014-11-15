@@ -5,12 +5,12 @@ date:   2014-05-25 06:00:46
 author: Lesley Bell
 categories:
 - project
-img: google glass outline.png
-thumb: google glass outline.png
+img: googleglassstockphoto.jpg
+thumb: googleglassstockphoto.jpg
 carousel:
 - HUDHowtoforglass 1.jpg
 - HUDHow To for Glass Ant Logo.jpg
-- google glass outline.png
+- googleglasstockphoto.jpg
 client: Wonder Corp.
 website: http://blacktie.co
 ---
