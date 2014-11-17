@@ -5,13 +5,14 @@ date:   2014-02-25 16:54:46
 author: Lesley Bell
 categories:
 - project
-img: whi2optfin.jpg
-thumb: whi2optfin.jpg
+img: gettie.png
+thumb: gettie.png
 carousel:
 - whfinaltaskflow.jpg
 - gettiethings.jpg
 - whi2optfin.jpg
 client: Confidential
+website:  Confidential
 
 ---
 ####Google Glassware
