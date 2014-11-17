@@ -1,13 +1,11 @@
 ---
 layout: question
-"Why is design so important for Google Glass and other HUDs?"
+"Why is design so important for Google Glass and other heads-up displays?"
 date:   2014-04-25 16:54:46
 author: Lesley Bell
 categories:
 - 
 ---
-Design is important. It's not a just pretty layer, but is the intentional series of decisions that shape the look, feel, and human adoption of your project. 
-
 To have text layered over your field of vision is a more intimate experience than looking at that same text on a device in or near your hand.  
 
 Things that are acceptable on a smartphone or other wearable device are not always great experiences on Glass or other wearable HUDs. 
