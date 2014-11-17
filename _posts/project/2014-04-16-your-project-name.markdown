@@ -5,10 +5,10 @@ date:   2014-04-25 16:54:46
 author: Lesley Bell
 categories:
 - project
-img: Cyrene Blog.jpg
-thumb: Cyrene Blog.jpg
+img: CyreneBlog.png
+thumb: CyreneBlog.png
 carousel:
-- Cyrene Blog.jpg
+- CyreneBlog.png
 - Cyrene Shop.jpg
 - cyrenep.jpg
 client: Cyrene
