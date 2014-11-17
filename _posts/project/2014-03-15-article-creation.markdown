@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "Article Creation"
-date:   2014-05-01 13:00:24
+title:  "ARTICLE CREATION"
+date:   2014-04-15 16:54:46
 author: Lesley Bell
 categories:
 - project
@@ -11,6 +11,7 @@ carousel:
 - whmethods.jpg
 - whaccordionoption.jpg
 - wh.jpg
+Client:  Confidential
 
 ####Article Creation
 I was contracted to redesign a the guided editor and article creation page of a popular how-to site.
