@@ -5,12 +5,12 @@ date:   2014-05-25 06:00:46
 author: Lesley Bell
 categories:
 - project
-img: googleglassstockphoto.jpg
-thumb: googleglassstockphoto.jpg
+img: googleglassstockphoto.jpeg
+thumb: googleglassstockphoto.jpeg
 carousel:
 - HUDHowtoforglass 1.jpg
 - HUDHow To for Glass Ant Logo.jpg
-- googleglasstockphoto.jpg
+- googleglasstockphoto.jpeg
 
 ---
 ####HUD HOWTO
