@@ -5,11 +5,12 @@ date:   2014-02-25 16:54:46
 author: Lesley Bell
 categories:
 - project
-img: gettiethings.jpg
-thumb: gettiethings.jpg
+img: whi2optfin.jpg
+thumb: whi2optfin.jpg
 carousel:
 - whfinaltaskflow.jpg
 - gettiethings.jpg
+- whi2optfin.jpg
 client: Confidential
 
 ---
