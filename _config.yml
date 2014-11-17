@@ -28,14 +28,12 @@ colors:  #in hex code if not noted else
 social:
   - title: dribbble
     url: http://www.dribbble.com/LB2045
-  - title: facebook
-    url:
+  - title: google-plus
+    url: https://plus.google.com/+LesleyBell2045
   - title: twitter
     url: https://www.twitter.com/LB2045
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/LB2045
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 #address:
@@ -100,10 +98,7 @@ members:
 #    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "I am an experience designer who is fascinated by the relationship between humans and our tools.  Our technology has influenced our evolution as a species and is continuing to do so at an exponential rate.
-What happens when we can have information in front of our eyes every single moment?  What will reality look like when we can augment it in any way we want? When technology is potentially present in every moment, design becomes more important to the success of products and services than ever before.
-I am excited to shape brand new interactions that will change how people use technology. I also enjoy building small electronics, making art in traditional and digital media, and running long distances.
-"
+about: "I am a UX designer who enjoys solving new technical and design challenges. I believe that the point of technology is to empower users, and I love finding creative new ways to make technology work better for the actual humans who use it."
 
 # Testimonial content. Shown on Home and About page. 
 #testimonial:
