@@ -11,6 +11,8 @@ carousel:
 - HUDHowtoforglass 1.jpg
 - HUDHow To for Glass Ant Logo.jpg
 - googleglasstockphoto.jpeg
+company: HUD HowTo
+website:  http://hudhowto.com/
 
 ---
 ####HUD HOWTO
