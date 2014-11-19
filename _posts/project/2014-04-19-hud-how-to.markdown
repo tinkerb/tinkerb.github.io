@@ -9,6 +9,7 @@ img: googleglassstockphoto.jpeg
 thumb: googleglassstockphoto.jpeg
 carousel:
 - HUDHowtoforglass1.jpg
+- HUDHowToAlien.svg
 - googleglasstockphoto.jpeg
 company: HUD HowTo
 website:  http://hudhowto.com/
