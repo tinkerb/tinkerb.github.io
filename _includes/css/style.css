@@ -74,7 +74,7 @@ a:focus {
 	background:{{ site.colors.secondary }};
 }
 ::selection {
-	color: #fff;
+	color: #006ee7;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
@@ -156,7 +156,7 @@ a:focus {
 }
 .dmbutton {
 	background:rgba(0, 0, 0, 0);
-	border: 1px solid #ffffff;
+	border: 1px solid #006ee7;
 	color: #ffffff;
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
