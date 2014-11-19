@@ -9,7 +9,7 @@ img: googleglassstockphoto.jpeg
 thumb: googleglassstockphoto.jpeg
 carousel:
 - HUDHowtoforglass 1.jpg
-- HUDHow To for Glass Ant Logo.jpg
+- HUD How To for Glass Ant Logo.jpg
 - googleglasstockphoto.jpeg
 company: HUD HowTo
 website:  http://hudhowto.com/
