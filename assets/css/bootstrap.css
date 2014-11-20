@@ -5588,7 +5588,7 @@ button.close {
     padding-bottom: 30px;
   }
   .carousel-indicators {
-  top: 20px;
+  top: -15px;
   }
 }
 .clearfix:before,
