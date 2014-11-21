@@ -6,7 +6,7 @@ author: Lesley Bell
 categories:
 - project
 img: deliverly4.png
-thumb: deliverly.png
+thumb: deliverly4.png
 carousel:
 - deliverly4.png
 - deliverly5.png
