@@ -1,5 +1,5 @@
 ---
-layout: project3
+layout: project
 title:  "DELIVERLY MOBILE"
 date:   2014-04-25 16:54:46
 author: Lesley Bell
