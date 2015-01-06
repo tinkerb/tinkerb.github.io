@@ -1,5 +1,5 @@
 ---
-layout: project2
+layout: whproject
 title:  User-generated content
 date:   2014-02-25 12:54:40
 author: Lesley Bell
