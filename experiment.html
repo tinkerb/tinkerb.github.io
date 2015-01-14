@@ -2,11 +2,22 @@
 <html>
 <body>
 <div>
-<img id="tarsier" src="/assets/img/cuteness/phil tarsier.jpg" style=width:300px;>
-<script>
-<script>
-document.onClick.getElementById("tarsier").src = "/assets/img/cuteness/cuddly beagles.jpg;
-</script>
+<img id="tarsier" src="/assets/img/cuteness/phil tarsier.jpg" style=width:300px; onclick="changeImage()" >
+<script language="javascript">
+    function changeImage() {
+
+        if (document.getElementById("imgClickAndChange").src == "/assets/img/cuteness/phil tarsier.jpg") 
+        {
+            document.getElementById("imgClickAndChange").src = "/assets/img/cuteness/cuddly beagles.jpg";
+        }
+        else 
+        {
+            document.getElementById("imgClickAndChange").src = "/assets/img/cuteness/phil tarsier.jpg";
+        }
+    }
+
+//document.onClick.getElementById("tarsier").src = "/assets/img/cuteness/cuddly beagles.jpg";
+
 </script>
 
 </div>
