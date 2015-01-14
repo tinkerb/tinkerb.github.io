@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div>
+<script>
+function getColor(){
+  var color = "red";
+  return color;
+};
+function colorChange(color) {
+  document.getElementsbyTagName.("DIV")[0].style.backgroundColor = color;
+};
+div onclick="colorChange";
+div.addEventListener("click", colorChange);
+
+
+</script>
+
+
+
+</div>
+</body>
+</html>
+
