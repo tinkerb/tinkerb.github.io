@@ -13,8 +13,10 @@
 </style>
 
 <script>
+  
+var color = "red";
 function getColor(){
-  var color = "red";
+
   return color;
 };
 function colorChange(color) {
@@ -22,6 +24,10 @@ function colorChange(color) {
 };
 div onclick="colorChange";
 div.addEventListener("click", colorChange);
+
+colorChange(red);
+colorChange(blue);
+colorChange(green);
 
 
 </script>
