@@ -3,7 +3,7 @@
 <body>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="experimentstyle.css" media="experimentstyle">
-<div>
+<div id="cute">
 <img id="tarsier" src="/assets/img/cuteness/phil tarsier.jpg" style=width:300px; onclick="changeImage()">
  <button>more cuteness!</button>
  <script>
@@ -13,7 +13,7 @@ button.addEventListener('click', function (ev) {
     msg.textContent = new Date().toISOString();
     document.body.appendChild(msg);
     document.getElementById("tarsier").src = "/assets/img/cuteness/kitten2.jpeg";*/
-    var src = document.getElementByName("div");
+    var src = document.getElementById("cute");
     var img = document.createElement("img");
     img.src = "/assets/img/cuteness/kitten1.jpeg";
     document.appendChild(img);
