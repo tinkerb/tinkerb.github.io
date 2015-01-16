@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
 <body>
+<img id="tarsier" src="/assets/img/cuteness/phil tarsier.jpg" style=width:300px; onclick="changeImage()">
  <button>wow</button>
  <script>
      var button = document.querySelector('button');
 button.addEventListener('click', function (ev) {
-    var msg = document.createElement('div');
+    /*var msg = document.createElement('div');
     msg.textContent = new Date().toISOString();
-    document.body.appendChild(msg);
+    document.body.appendChild(msg);*/
+    document.getElementById("tarsier").src = "/assets/img/cuteness/cuddly beagles.jpg";
 });
  </script>
+
+
 <!--<div>
-<img id="tarsier" src="/assets/img/cuteness/phil tarsier.jpg" style=width:300px; onclick="changeImage()" >
 <script language="javascript">
     function changeImage() {
 
