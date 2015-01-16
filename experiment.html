@@ -1,17 +1,25 @@
 <!DOCTYPE html>
 <html>
 <body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="experimentstyle.css" media="experimentstyle">
+<div>
 <img id="tarsier" src="/assets/img/cuteness/phil tarsier.jpg" style=width:300px; onclick="changeImage()">
- <button>wow</button>
+ <button>more cuteness!</button>
  <script>
      var button = document.querySelector('button');
 button.addEventListener('click', function (ev) {
     /*var msg = document.createElement('div');
     msg.textContent = new Date().toISOString();
-    document.body.appendChild(msg);*/
-    document.getElementById("tarsier").src = "/assets/img/cuteness/kitten2.jpeg";
+    document.body.appendChild(msg);
+    document.getElementById("tarsier").src = "/assets/img/cuteness/kitten2.jpeg";*/
+    var src = document.getElementByName("div");
+    var img = document.createElement("img");
+    img.src = "/assets/img/cuteness/kitten1.jpeg";
+    document.appendChild(img);
 });
  </script>
+</div>
 
 
 <!--<div>
