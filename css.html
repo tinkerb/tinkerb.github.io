@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <style>
-div {
+#this {
   width: device-width;
   height: 500px;
-  position: absolute;
+  position: relative;
   @-webkit-keyframes myfirst {
     0%   {background: red; left:0px; top:0px;}
     25%  {background: yellow; left:200px; top:0px;}
@@ -13,7 +13,7 @@ div {
 }
 
 /* Standard syntax */
-@keyframes myfirst {
+@keyframes #this {
     0%   {background: red; left:0px; top:0px;}
     25%  {background: yellow; left:200px; top:0px;}
     50%  {background: blue; left:200px; top:200px;}
@@ -42,7 +42,7 @@ div {
 }
 </style>
 <body>
-<div>
+<div id="this">
 </div>
 </body>
 </html>
