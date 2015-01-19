@@ -1,48 +1,48 @@
 <!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
-#this {
-  width: device-width;
-  height: 500px;
-  position: relative;
-  @-webkit-keyframes myfirst {
-    0%   {background: red; left:0px; top:0px;}
-    25%  {background: yellow; left:200px; top:0px;}
-    50%  {background: blue; left:200px; top:200px;}
-    75%  {background: green; left:0px; top:200px;}
-    100% {background: red; left:0px; top:0px;}
+.visible {
+  
 }
 
-/* Standard syntax */
-@keyframes #this {
-    0%   {background: red; left:0px; top:0px;}
-    25%  {background: yellow; left:200px; top:0px;}
-    50%  {background: blue; left:200px; top:200px;}
-    75%  {background: green; left:0px; top:200px;}
-    100% {background: red; left:0px; top:0px;}
+.hidable {
+  display: none;
+
 }
-  
-    /* Chrome, Safari, Opera */
-    -webkit-animation-name: myfirst;
-    -webkit-animation-duration: 5s;
-    -webkit-animation-timing-function: linear;
-    -webkit-animation-delay: 2s;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-direction: alternate;
-    -webkit-animation-play-state: running;
-    /* Standard syntax */
-    animation-name: myfirst;
-    animation-duration: 5s;
-    animation-timing-function: linear;
-    animation-delay: 2s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    animation-play-state: running;
+
+.expand {
+  /* unvisited link */
+a:link {
+    color: #FF0000;
 }
-  
+
+div.clickable {
+  height: 35px;
+  border: gray;
 }
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+}
+
 </style>
+<script>
+  $('#clickable').click(function() {
+    $('#hidable').addClass('visible');
+});
+</script>
+</head>
 <body>
-<div id="this">
+<div class="clickable">
+<i class="fa fa-caret-down"></i>
 </div>
 </body>
 </html>
