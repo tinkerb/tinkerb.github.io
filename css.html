@@ -10,7 +10,7 @@ div.visible {
   
 }
 
-div.hidable {
+#hideable {
   display: none;
 
 }
@@ -40,9 +40,22 @@ a:hover {
 
 </style>
 <script>
-  $('clickable').click(function() {
-    $('hidable').addClass('visible');
-});
+ function expand() {
+   var el = document.getElementById("hideable");
+if (el.addEventListener)
+    el.addEventListener("click", doFunction, false);
+else if (el.attachEvent)
+    el.attachEvent('onclick', replaceClass(e1, "hideable", "visible"));
+};
+
+function replaceClass(el, removeClassName, newClassName){
+    var elClass = el.className;
+    while(elClass.indexOf(removeClassName) != -1) {
+        elClass = elClass.replace(removeClassName, '');
+        elClass = elClass.trim();
+    }
+    el.className += ' ' + newClassName;
+}
 </script>
 </head>
 <body>
@@ -58,9 +71,9 @@ a:hover {
 
 </div>
 <div class="clickable">
-<i class="fa fa-caret-down"></i>
+<input type="button" class="fa fa-caret-down" value="Capacity Chart" onclick="expand();">
 </div>
-<div class="hidable">
+<div id="hideable">
   <img src="/assets/img/project/deliverlyversus.png" alt="Deliverly Designs A vs. B" style="float:left;max-width:100%"
 </div>
 </body>
