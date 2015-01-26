@@ -9,13 +9,16 @@
  <script>
      var button = document.querySelector('button');
 button.addEventListener('click', function (ev) {
+    
     /*var msg = document.createElement('div');
     msg.textContent = new Date().toISOString();
     document.body.appendChild(msg);
     document.getElementById("cute").src = "/assets/img/cuteness/kitten2.jpeg";*/
+   
     var src = document.getElementById("cute");
     var img = document.createElement("img");
-    img.src = "/assets/img/cuteness/kitten1.jpeg" style="position: absolute; left: 400px;";
+    img.src = "/assets/img/cuteness/kitten1.jpeg";
+     document.getElementById("cute").style.top=800 + "px";
 
 
     document.appendChild(img);
