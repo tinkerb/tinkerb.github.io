@@ -5,8 +5,9 @@
 <link rel="stylesheet" href="experimentstyle.css" media="experimentstyle">
 <div id="cute">
 <img id="cute" src="/assets/img/cuteness/phil tarsier.jpg" onclick="changeImage()">
- <button>more cuteness!</button>
+  <input type="button" onclick="function launch(button)" value="Click Me!">
  <script>
+ function launch(button){
      var button = document.querySelector('button');
 button.addEventListener('click', function (ev) {
     
@@ -24,6 +25,7 @@ button.addEventListener('click', function (ev) {
 
     document.appendChild(img);
 })
+}
 
  </script>
  </div>
