@@ -16,6 +16,26 @@ website:  Not online
 ---
 ####DELIVERLY
 
+<div class="row">
+<div class="col-sm-4">
+<img src="/assets/img/project/deliverly4.png">
+</div>
+<div class="col-sm-4">
+<img src="/assets/img/project/deliverly5.png">
+</div>
+<div class="col-sm-4">
+<img src="/assets/img/project.deliverlymenu.png"
+</div>
+<!--<p>Deliverly is...</p>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
+<div id="demo" class="collapse in">
+<p>More info on deliverly...</p>-->
+</div>
+<!--<a class="expander" href="#"<i class="fa fa-chevron-down"></i></a>
+<div class="content">
+content to hide.
+</div> -->
+
 Concept: Users can order pizzas delivered based on specific ingredients.
 
 Personas:  James, 38.  He is a teacher.  His wife is a soldier currently overseas. They have two kids (4,7) with nut, egg, and gluten intolerance, one of whom is very picky.  He uses the app to order pizzas delivered or ready-to-pick-up after work.   
