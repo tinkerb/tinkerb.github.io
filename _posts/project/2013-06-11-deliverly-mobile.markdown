@@ -7,10 +7,6 @@ categories:
 - project
 img: deliverly4.png
 thumb: deliverly4.png
-carousel:
-- deliverly4.png
-- deliverly5.png
-- deliverlymenu.png
 client: None, UX Project
 website:  Not online
 ---
