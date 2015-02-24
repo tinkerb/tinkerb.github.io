@@ -17,14 +17,14 @@ website:  Not online
 ####DELIVERLY
 
 <div class="row">
-<div class="col-sm-4">
+<div class="col-md-4">
 <img src="/assets/img/project/deliverly4.png">
 </div>
-<div class="col-sm-4">
+<div class="col-md-4">
 <img src="/assets/img/project/deliverly5.png">
 </div>
-<div class="col-sm-4">
-<img src="/assets/img/project.deliverlymenu.png"
+<div class="col-md-4">
+<img src="/assets/img/project.deliverlymenu.png">
 </div>
 <!--<p>Deliverly is...</p>
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
