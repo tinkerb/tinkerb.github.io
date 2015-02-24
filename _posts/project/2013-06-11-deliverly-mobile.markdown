@@ -17,7 +17,7 @@ website:  Not online
 ####DELIVERLY
 
 <div class="row">
-<div class="col-md-4">
+<!--<div class="col-md-4">
 <img src="/assets/img/project/deliverly4.png">
 </div>
 <!--<div class="col-md-4">
