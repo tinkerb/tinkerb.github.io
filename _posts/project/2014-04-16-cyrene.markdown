@@ -15,7 +15,7 @@ client: Cyrene
 
 ---
 ####CYRENE
-Cyrene is avnot-for-profit consignment platform founded by an interior designer who wanted an exceptionally beautiful site.
+Cyrene is a not-for-profit consignment platform founded by an interior designer who wanted an exceptionally beautiful site.
 
 Her organization enabled users to donate fine art, antiques, and jewelry to benefit a charity of their choice.  They also had the option to sell an item and donate only a percentage of the proceeds.  These items were available for purchase on the site, but she strongly believed that shopping should not be the focus of the site.
 
