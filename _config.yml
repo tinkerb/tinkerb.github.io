@@ -5,7 +5,7 @@ title: Lesley Bell
 description: "I'm a data-driven user experience researcher, designer, and proto-front-end developer located in the San Francisco Bay Area."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://lesleybell.com"
+url: "http://tinkerb.github.io" #"http://lesleybell.com"
 
 # Build settings
 markdown: kramdown
